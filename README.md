@@ -48,3 +48,4 @@ To deploy on GitHub Pages: Settings → Pages → Source: Deploy from branch →
 ---
 
 *NVIDIA London Hackathon 2026 · June 5–7*
+
